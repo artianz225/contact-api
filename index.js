@@ -19,16 +19,6 @@ let persons = [
     id: 1,
     name: "Arthur",
     number: "09311218228"
-  },
-  {
-    id: 2,
-    name: "Diane",
-    number: "09304091927"
-  },
-  {
-    id: 3,
-    name: "Arthur & Diane",
-    number: "09058733668"
   }
 ]
 
