@@ -19,7 +19,52 @@ let persons = [
     id: 1,
     name: "Arthur",
     number: "09311218228"
-  }
+  },
+  {
+    id: 2,
+    name: "Daine Rose",
+    number: "09311218228"
+  },
+  {
+    id: 3,
+    name: "Salve Marie",
+    number: "09311218228"
+  },
+  {
+    id: 4,
+    name: "John Doe",
+    number: "09311218228"
+  },
+  {
+    id: 5,
+    name: "Leon Kenedy",
+    number: "09311218228"
+  },
+  {
+    id: 6,
+    name: "Ada Wong",
+    number: "09311218228"
+  },
+  {
+    id: 7,
+    name: "Jackie Chan",
+    number: "09311218228"
+  },
+  {
+    id: 8,
+    name: "Horry Potter",
+    number: "09311218228"
+  },
+  {
+    id: 9,
+    name: "Ashly Graham",
+    number: "09311218228"
+  },
+  {
+    id: 10,
+    name: "Jack Cruiser",
+    number: "09311218228"
+  },
 ]
 
 function unknownEndPoint(request, response) {
